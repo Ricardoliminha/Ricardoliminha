@@ -2,7 +2,7 @@
 
 🎯 Iniciante em Desenvolvimento Web e futuro Cientista de dados | 🌱 Sempre aprendendo | 💻 Apaixonado por tecnologia
 
-[13bbcd9f3704ececf998896d8879177f](https://github.com/user-attachments/assets/8d292439-3890-40b9-a676-ec56da3d4525)
+![Programação Banner](https://github.com/RicardoLiminha/RicardoLiminha/blob/main/minha-imagem.gif?raw=true)
 
 ---
 
