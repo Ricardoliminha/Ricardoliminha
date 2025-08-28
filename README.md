@@ -2,8 +2,6 @@
 
 🎯 Iniciante em Desenvolvimento Web e futuro Cientista de dados | 🌱 Sempre aprendendo | 💻 Apaixonado por tecnologia
 
-![Programação Banner](https://github.com/RicardoLiminha/RicardoLiminha/blob/main/minha-imagem.gif?raw=true)
-
 ---
 
 ## Sobre mim
@@ -40,9 +38,9 @@ Tenho experiência inicial em **HTML, CSS, JavaScript** e estou aprendendo **Exc
 ## 📊 Nível de conhecimento
 - HTML & CSS: ![█████-----](https://img.shields.io/badge/HTML%20%26%20CSS-60%25-yellow)
 - JavaScript: ![███-------](https://img.shields.io/badge/JavaScript-40%25-red)
-- Python: ![██--------](https://img.shields.io/badge/Python-20%25-blue)
-- SQL: ![██--------](https://img.shields.io/badge/SQL-20%25-blueviolet)
-- R: ![█---------](https://img.shields.io/badge/R-10%25-lightblue)
+- Python: ![██--------](https://img.shields.io/badge/Python-40%25-blue)
+- SQL: ![██--------](https://img.shields.io/badge/SQL-50%25-blueviolet)
+- R: ![█---------](https://img.shields.io/badge/R-50%25-lightblue)
 - Excel: ![███-------](https://img.shields.io/badge/Excel-30%25-green)
 
 ---
@@ -72,4 +70,7 @@ Tenho experiência inicial em **HTML, CSS, JavaScript** e estou aprendendo **Exc
 
 ---
 
-> 💡 “Aprender e compartilhar conhecimento é a melhor forma de evoluir!”  
+> 💡 “Aprender e compartilhar conhecimento é a melhor forma de evoluir!”
+
+
+
