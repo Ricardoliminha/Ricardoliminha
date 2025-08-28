@@ -72,5 +72,5 @@ Tenho experiência inicial em **HTML, CSS, JavaScript** e estou aprendendo **Exc
 
 > 💡 “Aprender e compartilhar conhecimento é a melhor forma de evoluir!”
 
-
+![Snake animation](https://github.com/RicardoLiminha/RicardoLiminha/blob/output/snake.svg)
 
