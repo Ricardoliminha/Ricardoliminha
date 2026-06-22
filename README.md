@@ -30,7 +30,7 @@ Tenho Basico inicial em **HTML, CSS, JavaScript, Java** e estou aprendendo **Exc
 <p>
 <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30"/>
 <img alt="SQL" src="https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white" height="30"/>
-<img alt="Google Ads" src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="30"/>
+<img alt="Ads" src="https://img.shields.io/badge/Google%20Ads-4285F4?style=for-the-badge&logo=googleads&logoColor=white" height="30"/>
 </p>
 
 ---
