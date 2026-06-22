@@ -5,8 +5,8 @@
 ![Programação Banner](https://github.com/RicardoLiminha/RicardoLiminha/raw/main/13bbcd9f3704ececf998896d8879177f.gif)
 ---
 ## Sobre mim
-Atualmente estou expandindo meus conhecimentos em **Marketing Digital (Google Ads)** e **Análise de Dados**.  
-Tenho experiência inicial em **HTML, CSS, JavaScript** e estou aprendendo **Excel, SQL, R e Python**.  
+Atualmente estou expandindo meus conhecimentos em **Ads** e **Análise de Dados**.  
+Tenho Basico inicial em **HTML, CSS, JavaScript, Java** e estou aprendendo **Excel, SQL, R e Python**.  
 
 - 🌱 Atualmente estudando: **Desenvolvimento Web, Data Analytics e Ads**  
 - 💻 Linguagens e ferramentas: HTML, CSS, JavaScript, Excel, SQL, R, Python  
