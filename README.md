@@ -1,6 +1,6 @@
-# Olá! 🙏🏼 Eu sou Ricardo Liminha 🙏🏼
+# Olá! - Eu sou Ricardo Rodrigues 🙏🏼
 
-🎯 Iniciante em Desenvolvimento Web e futuro Cientista de dados | 🌱 Sempre aprendendo | 💻 Apaixonado por tecnologia
+- Iniciante em Desenvolvimento Web e futuro Cientista de dados | 🌱 Sempre aprendendo | 💻 Apaixonado por tecnologia
 ---
 ![Programação Banner](https://github.com/RicardoLiminha/RicardoLiminha/raw/main/13bbcd9f3704ececf998896d8879177f.gif)
 ---
@@ -8,7 +8,7 @@
 Atualmente estou expandindo meus conhecimentos em **Marketing Digital (Google Ads)** e **Análise de Dados**.  
 Tenho experiência inicial em **HTML, CSS, JavaScript** e estou aprendendo **Excel, SQL, R e Python**.  
 
-- 🌱 Atualmente estudando: **Desenvolvimento Web, Data Analytics e Google Ads**  
+- 🌱 Atualmente estudando: **Desenvolvimento Web, Data Analytics e Ads**  
 - 💻 Linguagens e ferramentas: HTML, CSS, JavaScript, Excel, SQL, R, Python  
 - 🎮 Hobbies: Música, games e explorar novas tecnologias  
 - ✨ Objetivo: Criar soluções práticas e aprender continuamente  
